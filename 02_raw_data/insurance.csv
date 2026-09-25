@@ -1,0 +1,9 @@
+insurance_id,insurance_provider,insurance_type
+INS001,HealthPlus,Private
+INS002,MediCare France,Public
+INS003,SecureHealth,Private
+INS004,WellCare,Private
+INS005,Vitalis,Public
+INS006,EuroHealth,Private
+INS007,CareShield,Private
+INS008,Public Health,Public

@@ -1,0 +1,9 @@
+hospital_id,hospital_name,city,hospital_type,bed_capacity
+H001,MedCore Central,Paris,General,650
+H002,MedCore North,Lille,General,420
+H003,MedCore South,Marseille,General,500
+H004,MedCore East,Lyon,General,460
+H005,MedCore West,Bordeaux,General,380
+H006,MedCore University,Paris,Teaching,800
+H007,MedCore Cardiology,Paris,Specialized,300
+H008,MedCore Riverside,Nantes,General,350

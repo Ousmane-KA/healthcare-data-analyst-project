@@ -1,0 +1,41 @@
+disease_id,disease_name,category
+DIS001,Hypertension,Cardiovascular
+DIS002,Type 2 Diabetes,Endocrine
+DIS003,Coronary Artery Disease,Cardiovascular
+DIS004,Heart Failure,Cardiovascular
+DIS005,COPD,Respiratory
+DIS006,Asthma,Respiratory
+DIS007,Pneumonia,Respiratory
+DIS008,Influenza,Respiratory
+DIS009,Chronic Kidney Disease,Renal
+DIS010,Acute Kidney Injury,Renal
+DIS011,Depression,Mental Health
+DIS012,Anxiety Disorder,Mental Health
+DIS013,Osteoarthritis,Musculoskeletal
+DIS014,Rheumatoid Arthritis,Musculoskeletal
+DIS015,Osteoporosis,Musculoskeletal
+DIS016,Migraine,Neurological
+DIS017,Stroke,Neurological
+DIS018,Atrial Fibrillation,Cardiovascular
+DIS019,Hyperlipidemia,Endocrine
+DIS020,Obesity,Metabolic
+DIS021,Lung Cancer,Cancer
+DIS022,Breast Cancer,Cancer
+DIS023,Colorectal Cancer,Cancer
+DIS024,Prostate Cancer,Cancer
+DIS025,Liver Disease,Gastrointestinal
+DIS026,Gastroesophageal Reflux,Gastrointestinal
+DIS027,Peptic Ulcer Disease,Gastrointestinal
+DIS028,Appendicitis,Surgical
+DIS029,Urinary Tract Infection,Infectious
+DIS030,Sepsis,Infectious
+DIS031,COVID-19,Infectious
+DIS032,Anemia,Hematological
+DIS033,Thyroid Disorder,Endocrine
+DIS034,Epilepsy,Neurological
+DIS035,Dementia,Neurological
+DIS036,Parkinson Disease,Neurological
+DIS037,Fracture,Musculoskeletal
+DIS038,Back Pain,Musculoskeletal
+DIS039,Skin Infection,Infectious
+DIS040,Other Infection,Infectious
