@@ -1,0 +1,17 @@
+version: '3.8'
+services:
+  mysql:
+    image: mysql:8.0
+    container_name: healthcare-mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: RootPassFort123!
+      MYSQL_DATABASE: healthcare_data_analyst
+      MYSQL_USER: healthcare_admin
+      MYSQL_PASSWORD: VotreMotDePasseFort123!
+    ports:
+      - "3308:3306"
+    volumes:
+      - healthcare_mysql_data:/var/lib/mysql
+
+volumes:
+  healthcare_mysql_data:
